@@ -1,14 +1,14 @@
 body {
     font-family: Arial, sans-serif;
-    background-image: url('Pixel.gif'); /* Ganti dengan URL gambar kamu */
-    background-size: cover; /* Gambar akan menyesuaikan ukuran layar */
-    background-position: center; /* Posisikan gambar di tengah */
-    background-repeat: no-repeat; /* Mencegah pengulangan gambar */
+    background-image: url('Pixel.gif');
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat; 
 }
 
 .container {
     width: 500px;
-    margin: 120px auto;
+    margin: 140px auto;
     padding: 25px;
     background-color: #fff;
     border-radius: 10px;

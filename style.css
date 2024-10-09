@@ -39,20 +39,6 @@ input[type="submit"] {
     cursor: pointer;
 }
 
-table {
-    width: 100%;
-    border-collapse: collapse;
-}
-
-table, th, td {
-    border: 1px solid #ddd;
-}
-
-th, td {
-    padding: 10px;
-    text-align: left;
-}
-
 #detail-section {
     display: none;
 }
